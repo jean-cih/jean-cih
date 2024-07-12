@@ -47,7 +47,7 @@
 <hr/>
 
 <div align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="Assets/github-snake.svg" alt="snake"/>
 </div>
 
 <hr/>
