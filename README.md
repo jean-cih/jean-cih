@@ -56,7 +56,7 @@
 [![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)   
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/Jean-cih=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/Jean=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 
 
 
