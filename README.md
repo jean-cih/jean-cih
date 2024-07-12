@@ -26,7 +26,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=c,c#,bash,linux,sqlite,mysql,mssql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=c,csharp,bash,linux,sqlite,mysql,mssql,postgresql" /><br>
 </div>
 
 <br/>
