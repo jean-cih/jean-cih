@@ -21,6 +21,7 @@
 -  ⚡ Fun fact **My favorite track is Watch the World burn**
 
 - 📫 How to find me:
+  
   <a href="mailto:evgenijpocekutov6@gmail.com">
     <img align="left" alt="Archit Sharma | Linkedin" width="24px" src="https://github.com/jean-cih/jean/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
