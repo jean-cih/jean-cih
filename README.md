@@ -39,8 +39,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=c,csharp,bash,linux,sqlite,mysql,mssql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,git" />
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,bash,linux,sqlite,mysql,mssql,postgres" /><br>
 </div>
 
 <br/>
