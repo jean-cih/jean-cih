@@ -52,9 +52,9 @@
 
 <hr/>
 
-<div align="center">
-    [![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)   
-</div>
+
+[![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)   
+
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?jean=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
