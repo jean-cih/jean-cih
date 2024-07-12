@@ -25,7 +25,7 @@
   <a href="mailto:evgenijpocekutov6@gmail.com">
     <img align="left" alt="Archit Sharma | Linkedin" width="24px" src="https://github.com/jean-cih/jean/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-<a href="">
+  <a href="">
     <img align="left" alt="Archit Sharma | Twitter" width="26px" src="https://github.com/jean-cih/jean/blob/main/Assets/Telegram.svg" />
   </a> &nbsp;&nbsp;
 
