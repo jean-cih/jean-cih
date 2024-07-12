@@ -18,4 +18,4 @@
 
 -  🌱 My hometown is Minusinsk, and now i live in Novosibirsk.
   
--  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+-  ⚡ Fun fact **My favorite track is Watch the World burn**
