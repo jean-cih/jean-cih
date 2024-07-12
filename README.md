@@ -14,8 +14,6 @@
 
 -  🔭 I'm currently learning **Backend Web Development** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
   
--  🌱 I'm familiar with Docker, NodeJS, mySQL, Git, Linux⚙️.
+-  👀 I’m interested in Open Source Projects and Technical Writing.
 
--   👀 I’m interested in Open Source Projects and Technical Writing.
-  
--  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iArchitSharma/) 
+-  🌱 My hometown is Minusinsk, and now i live in Novosibirsk.
