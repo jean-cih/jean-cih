@@ -49,3 +49,5 @@
 </div>
 
 <hr/>
+
+[![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)
