@@ -23,13 +23,13 @@
 - 📫 How to find me:
   
   <a href="">
-    <img align="left" alt="Archit Sharma | Linkedin" width="24px" src="https://github.com/jean-cih/jean/blob/main/Assets/Gmail.svg" />
+    <img align="left" alt="Archit Sharma | Linkedin" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   <a href="">
-    <img align="left" alt="Archit Sharma | Twitter" width="26px" src="https://github.com/jean-cih/jean/blob/main/Assets/Telegram.svg" />
+    <img align="left" alt="Archit Sharma | Twitter" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Telegram.svg" />
   </a> &nbsp;&nbsp;
   <a href="">
-    <img align="left" alt="Archit Sharma | Twitter" width="26px" src="https://github.com/jean-cih/jean/blob/main/Assets/Instagram.svg" />
+    <img align="left" alt="Archit Sharma | Twitter" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
 
 <br>
