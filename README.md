@@ -57,7 +57,7 @@
 [![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)   
 
 <details align="center">
-  <summary>⚡ Show More</summary>
+  <summary>⚡ **Show More**</summary>
   <pre>
   🤷‍♂️
   </pre>
