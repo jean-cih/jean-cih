@@ -57,7 +57,7 @@
 
 <div align="center">
     
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Jean-cih&theme=dark)](https://github.com/Jean-cih/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Jean-cih&theme=halloween)](https://github.com/Jean-cih/github-readme-codewars)
 </div>
 <br/>
 
