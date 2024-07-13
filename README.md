@@ -57,7 +57,6 @@
 
 <div align="center">
     
-[![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Jean-cih&theme=dark)](https://github.com/Jean-cih/github-readme-codewars)
 </div>
 <br/>
