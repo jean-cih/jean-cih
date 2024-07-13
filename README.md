@@ -23,13 +23,13 @@
 - 📫 How to reach me:
   
   <a href="">
-    <img align="left" alt="Archit Sharma | Linkedin" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Gmail.svg" />
+    <img align="left" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   <a href="">
-    <img align="left" alt="Archit Sharma | Twitter" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Telegram.svg" />
+    <img align="left" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Telegram.svg" />
   </a> &nbsp;&nbsp;
   <a href="">
-    <img align="left" alt="Archit Sharma | Twitter" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Instagram.svg" />
+    <img align="left" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
 
 <br>
@@ -56,6 +56,7 @@
 
 [![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)   
 
-<h3 align="center" href="https://icons8.ru/icons"> ⚡ Show More
-</h3>
+<a href="">
+    <img align="center" width="35px" src="⚡ Show More" />
+</a> &nbsp;&nbsp;
 
