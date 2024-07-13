@@ -58,6 +58,7 @@
 [![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)
 <br/>
 
+<hr/>
 
 <a width="20" href="https://github.com/jean-cih?tab=repositories">
   <summary width="20" align="center">
