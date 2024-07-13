@@ -22,7 +22,7 @@
 
 - 📫 How to reach me:
   
-  <a href="">
+  <a href="evgenijpocekutov6@gmail.com">
     <img align="left" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://t.me/jean_key">
