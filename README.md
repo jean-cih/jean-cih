@@ -3,9 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋+I'm+Evgeniy+Pochekutov!;" />
 </h1>
-<em font="pixel code">
-    Software Enginner at
-</em>
+
 <br>
 
 <h2> About Me 👱🏻‍♂️‍</h2>
@@ -18,7 +16,7 @@
   
 -  👀 I’m interested in Open Source Projects and Technical Writing.
 
--  🔥 I'm in love with trampoline.
+-  🔥 I'm in love with trampoline. ...
   
 -  ⚡ Fun fact **My favorite track is Watch the World burn**
 
