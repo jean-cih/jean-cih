@@ -57,6 +57,6 @@
 [![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)   
 
 <a href="">
-    <img align="center" width="35px" src="⚡ Show More" />
+    <img align="center" width="35px" text="⚡ Show More" />
 </a> &nbsp;&nbsp;
 
