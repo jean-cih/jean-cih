@@ -16,11 +16,11 @@
   
 -  👀 I’m interested in Open Source Projects and Technical Writing.
 
--  🌱 My hometown is Minusinsk, and now i live in Novosibirsk.
+-  🔥 I'm in love with trampoline.
   
 -  ⚡ Fun fact **My favorite track is Watch the World burn**
 
-- 📫 How to find me:
+- 📫 How to reach me:
   
   <a href="">
     <img align="left" alt="Archit Sharma | Linkedin" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Gmail.svg" />
