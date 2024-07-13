@@ -14,7 +14,7 @@
 
 -  🔭 I'm currently learning **Backend Web Development** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
   
--  👀 I’m interested in Open Source Projects and Technical Writing (italic).
+-  👀 I’m interested in Open Source Projects and Technical Writing.
 
 -  🌱 My hometown is Minusinsk, and now i live in Novosibirsk.
   
