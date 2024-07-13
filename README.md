@@ -56,8 +56,8 @@
 
 [![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)   
 
-<a width="200" href="https://www.youtube.com/watch?v=pm17VwdJ6UI&t=1041s">
-  <summary align="center">
+<a width="20" href="https://www.youtube.com/watch?v=pm17VwdJ6UI&t=1041s">
+  <summary width="20" align="center">
       <img width="350px" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Show%20More&reversal=false&fontAlign=50&section=header&fontColor=2B96C6&descAlign=100&descAlignY=100&textBg=false"/> 
   </summary>
 </a>
