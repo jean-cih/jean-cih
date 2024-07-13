@@ -16,7 +16,7 @@
   
 -  👀 I’m interested in Open Source Projects and Technical Writing.
 
--  🔥 I'm in love with trampoline. ...
+-  🔥 I'm in love with trampoline.
   
 -  ⚡ Fun fact **My favorite track is Watch the World burn**
 
