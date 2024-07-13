@@ -18,7 +18,7 @@
 
 -  🔥 I'm in love with trampoline.
   
--  ⚡ --Fun fact **My favorite track is Watch the World burn**--
+-  ⚡ Fun fact **My favorite track is Watch the World burn**
 
 - 📫 How to reach me:
   
