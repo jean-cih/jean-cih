@@ -52,6 +52,7 @@
 
 <hr/>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=github-readme-stats)](https://github.com/jean-cih/github-readme-stats)
 <h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
 [![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)   
 
