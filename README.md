@@ -53,7 +53,7 @@
 <hr/>
 
 
-<h3 align="left">🔥 Моя статистика :</h3>
+<h3 align="left" align="center">🔥 My statistics 🔥:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jean-cih&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
