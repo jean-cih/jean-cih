@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jean.jean" />
 
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="Hi there! 👋 I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="Hi there! 👋 I'm (Raymo(111|nd Li)|https://raymond.li)" title="Hi there! 👋 I'm (Raymo(111|nd Li)|https://raymond.li)"/>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋+I'm+Evgeniy+Pochekutov!;" />
 </h1>
 
