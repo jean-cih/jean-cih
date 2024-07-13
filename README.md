@@ -56,10 +56,11 @@
 
 [![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)   
 
-<details align="center">
-  <summary href="">⚡ Show More</summary>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&reversal=false&fontAlign=50&section=header"/>  
-</details>
+
+  <summary align="center" href="">⚡ Show More
+      <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&reversal=false&fontAlign=50&section=header"/>  
+  </summary>
+
 
 <p align="center">
 </p>
