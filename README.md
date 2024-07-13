@@ -25,8 +25,8 @@
   <a href="">
     <img align="left" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-  <a href="">
-    <img align="left" width="35px" href="https://t.me/jean_key" src="https://github.com/jean-cih/jean/blob/main/Assets/Telegram.svg" />
+  <a href="https://t.me/jean_key">
+    <img align="left" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Telegram.svg" />
   </a> &nbsp;&nbsp;
   <a href="">
     <img align="left" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Instagram.svg" />
