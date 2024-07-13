@@ -57,8 +57,9 @@
 [![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)   
 
 <details align="center">
-  <summary>⚡ **Show More**</summary>
-  <pre>
-  🤷‍♂️
-  </pre>
+  <summary href="">⚡ Show More</summary>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&reversal=false&fontAlign=50&section=header"/>  
 </details>
+
+<p align="center">
+</p>
