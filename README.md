@@ -58,6 +58,6 @@
 
 <a href="https://www.youtube.com/watch?v=pm17VwdJ6UI&t=1041s">
   <summary align="center">
-      <img width="35px" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Show%20More&reversal=false&fontAlign=50&section=header&fontColor=9400D5&descAlign=100&descAlignY=100&textBg=false"/> 
+      <img width="350px" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Show%20More&reversal=false&fontAlign=50&section=header&fontColor=9400D5&descAlign=100&descAlignY=100&textBg=false"/> 
   </summary>
 </a>
