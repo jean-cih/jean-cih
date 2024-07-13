@@ -3,7 +3,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋+I'm+Evgeniy+Pochekutov!;" />
 </h1>
-
+Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
+</a>
 <br>
 
 <h2> About Me 👱🏻‍♂️‍</h2>
