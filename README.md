@@ -55,6 +55,7 @@
 
 <h3 align="center">🔥 My statistics 🔥</h3>
 <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jean-cih&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jean-cih&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -65,7 +66,6 @@
 
 <a width="20" href="https://github.com/jean-cih?tab=repositories">
   <summary width="20" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jean-cih&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
       <img width="350px" src="https://capsule-render.vercel.app/api?type=venom&height=200&width=50&color=gradient&text=Show%20More&reversal=false&fontAlign=50&section=header&fontColor=9400D3&descAlign=100&descAlignY=100&textBg=false&animation=twinkling"/> 
   </summary>
 </a>
