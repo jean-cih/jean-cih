@@ -54,12 +54,10 @@
 
 <h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> 
 </h2>
-<br/>
-<a align="center" src="[![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)">   
-</a>
 
-<br>
-<br>
+[![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)
+<br/>
+
 
 <a width="20" href="https://github.com/jean-cih?tab=repositories">
   <summary width="20" align="center">
