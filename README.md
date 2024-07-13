@@ -28,7 +28,7 @@
   <a href="https://t.me/jean_key">
     <img align="left" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Telegram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="">
+  <a href="https://www.instagram.com/jean_cih?igsh=OGFyemM1c2xxMnpn">
     <img align="left" width="35px" src="https://github.com/jean-cih/jean/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
 
