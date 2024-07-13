@@ -52,14 +52,8 @@
 
 <hr/>
 
-
-<h3 align="center">🔥 My statistics 🔥</h3>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jean-cih&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
-[![Github Readme Codewars](https://codewars-stats-Jean-cih.vercel.app/?username=jean-cih&theme=dark)](https://github.com/jean-cih/github-readme-codewars) 
+<h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
+[![codewars](https://www.codewars.com/users/Jean-cih/badges/large)](https://www.codewars.com/users/Jean-cih)   
 
 <br>
 
