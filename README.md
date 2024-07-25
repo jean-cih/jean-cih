@@ -56,8 +56,8 @@
 </h2>
 
 <div align="center">
-    
-![Image alt](https://github.com/jean-cih/ConsoleZooSimulator/raw/main/materials/image.png)
+
+![Image alt](https://github.com/jean-cih/jean/blob/main/Assets/image.png)
 </div>
 <br/>
 
