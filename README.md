@@ -57,7 +57,7 @@
 
 <div align="center">
     
-![Image alt](https://github.com/jean-cih/ConsoleZooSimulator/raw/main/materials/image.jpg)
+![Image alt](https://github.com/jean-cih/ConsoleZooSimulator/raw/main/materials/image.png)
 </div>
 <br/>
 
