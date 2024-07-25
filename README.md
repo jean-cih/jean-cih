@@ -57,6 +57,12 @@
 
 <div align="center">
     
+![Image alt](https://github.com/jean-cih/ConsoleZooSimulator/raw/main/materials/image.jpg)
+</div>
+<br/>
+
+<div align="center">
+    
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Jean-cih&theme=dark)](https://github.com/Jean-cih/github-readme-codewars)
 </div>
 <br/>
