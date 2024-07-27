@@ -57,7 +57,7 @@
 
 <div align="center">
 
-![Image alt](https://github.com/jean-cih/jean/blob/main/Assets/image.png)
+![Image alt](https://github.com/jean-cih/jean/blob/main/Assets/LeetCodeFirstWeek.png)
 </div>
 <br/>
 
