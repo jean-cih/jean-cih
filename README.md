@@ -55,18 +55,6 @@
 <h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> 
 </h2>
 
-<div align="center">
-
-![Image alt](https://github.com/jean-cih/jean/blob/main/Assets/myLeetcode.jpg)
-</div>
-<br/>
-
-<div align="center">
-    
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Jean-cih&theme=dark)](https://github.com/Jean-cih/github-readme-codewars)
-</div>
-<br/>
-
 <hr/>
 
 
