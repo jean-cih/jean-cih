@@ -67,4 +67,5 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-cih&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-cih&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jean-cih&theme=radical" />
 </div>
