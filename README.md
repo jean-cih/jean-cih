@@ -71,6 +71,7 @@
 </div>
 
 <h2 align="center">🎯 Recent Projects</h2>
+
 <div align="center">
   <a href="https://github.com/jean-cih/project1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=MyDecimal&theme=radical" />
@@ -82,7 +83,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=DataScienceBootcamp&theme=radical" />
   </a>
 </div>
+
 <br>
+
 <div align="center">
   <a href="https://github.com/jean-cih?tab=repositories">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&section=footer&text=Explore+My+Repositories&fontSize=30&fontColor=36BCF7&animation=twinkling" />
