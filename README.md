@@ -6,6 +6,8 @@
 
 <h3 align="center">Backend Developer | Tech Enthusiast | Open Source Contributor</h3>
 
+<br>
+
 <h2> ✨About Me 👱🏻‍♂️‍</h2>
 
  💻 **Aspiring Backend Developer** and **a student of the Faculty of Photonics and Optical Informatics** 🎓. My passion for Computer Science brought me here. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.
