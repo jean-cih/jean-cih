@@ -40,7 +40,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,gitlab,git" />
-    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,bash,linux,sqlite,mysql,postgres,vim" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,bash,linux,sqlite,mysql,postgres,vim,python,redis,kafka" />
+    <img src="https://skillicons.dev/icons?i=neovim,aws,docker,kubernetes,jenkins,grafana,prometheus" /><br>
 </div>
 
 <br/>
