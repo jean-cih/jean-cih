@@ -69,3 +69,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-cih&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jean-cih&theme=radical" />
 </div>
+
+
+
+<div align="center">
+  <a href="https://github.com/jean-cih?tab=repositories">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&section=footer&text=Explore+My+Repositories&fontSize=30&fontColor=9400D3&animation=twinkling" />
+  </a>
+</div>
