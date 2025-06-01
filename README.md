@@ -82,6 +82,6 @@
 
 <div align="center">
   <a href="https://github.com/jean-cih?tab=repositories">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&section=footer&text=Explore+My+Repositories&fontSize=30&fontColor=9400D3&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&section=footer&text=Explore+My+Repositories&fontSize=30&fontColor=36BCF7&animation=twinkling" />
   </a>
 </div>
