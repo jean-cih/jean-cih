@@ -36,12 +36,19 @@
 
   <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,gitlab,git" />
-    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,bash,linux,sqlite,mysql,postgres,vim,python,redis,kafka" />
-    <img src="https://skillicons.dev/icons?i=neovim,aws,docker,kubernetes,jenkins,grafana,prometheus" /><br>
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cs,python,bash" />
+  
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=dotnet,flask,redis,kafka,postgres,mysql,sqlite" />
+  
+  <h3>DevOps & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,grafana,prometheus" />
+  
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,neovim,linux" />
 </div>
 
 <br/>
