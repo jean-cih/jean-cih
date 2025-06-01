@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋+I'm+Evgeniy+Pochekutov!;" />
 </h1>
 
-<br>
+<h3 align="center">Backend Developer | Tech Enthusiast | Open Source Contributor</h3>
 
-<h2> About Me 👱🏻‍♂️‍</h2>
+<h2> ✨About Me 👱🏻‍♂️‍</h2>
 
  💻 **Aspiring Backend Developer** and **a student of the Faculty of Photonics and Optical Informatics** 🎓. My passion for Computer Science brought me here. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.
  
@@ -58,7 +58,8 @@
  <img width="800" height="200" src="Assets/github-snake.svg" alt="snake"/>
 </div>
 
-<hr/>
+<br>
+<hr>
 
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
@@ -66,6 +67,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-cih&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jean-cih&theme=radical" />
 </div>
+
+<br>
+<hr>
 
 <h2 align="center">🎯 Recent Projects</h2>
 
@@ -82,6 +86,7 @@
 </div>
 
 <br>
+<hr>
 
 <div align="center">
   <a href="https://github.com/jean-cih?tab=repositories">
