@@ -70,7 +70,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jean-cih&theme=radical" />
 </div>
 
-
+<h2 align="center">🎯 Recent Projects</h2>
+<div align="center">
+  <a href="https://github.com/jean-cih/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/jean-cih/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=project2&theme=radical" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/jean-cih?tab=repositories">
