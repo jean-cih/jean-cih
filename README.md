@@ -75,13 +75,13 @@
 
 <div align="center">
   <a href="https://github.com/jean-cih/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=MyDecimal&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=3DHolographicGrids&theme=radical" />
   </a>
   <a href="https://github.com/jean-cih/project2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=ModelingOfLenses&theme=radical" />
   </a>
     <a href="https://github.com/jean-cih/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=DataScienceBootcamp&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=CrystalModeling&theme=radical" />
   </a>
 </div>
 
