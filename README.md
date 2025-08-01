@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=c,cs,python,bash" />
   
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=dotnet,flask,redis,kafka,postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,redis,kafka,postgres,mysql,sqlite" />
   
   <h3>DevOps & Cloud</h3>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,grafana,prometheus" />
