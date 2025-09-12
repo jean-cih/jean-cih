@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=dotnet,fastapi,redis,kafka,postgres,mysql,sqlite" />
   
   <h3>DevOps & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus" />
   
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,neovim,linux" />
