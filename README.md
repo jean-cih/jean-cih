@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus" />
   
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,neovim,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,neovim,linux,qt" />
 </div>
 
 <br/>
