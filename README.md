@@ -41,7 +41,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,cs,python,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,bash" />
   
   <h3>Backend</h3>
   <img src="https://skillicons.dev/icons?i=dotnet,fastapi,redis,kafka,postgres,mysql,sqlite" />
