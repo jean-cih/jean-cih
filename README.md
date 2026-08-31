@@ -73,23 +73,6 @@
 <br>
 <hr>
 
-<h2 align="center">🎯 Recent Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/jean-cih/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=3DHolographicGrids&theme=radical" />
-  </a>
-  <a href="https://github.com/jean-cih/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=ModelingOfLenses&theme=radical" />
-  </a>
-    <a href="https://github.com/jean-cih/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jean-cih&repo=CrystalModeling&theme=radical" />
-  </a>
-</div>
-
-<br>
-<hr>
-
 <div align="center">
   <a href="https://github.com/jean-cih?tab=repositories">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&section=footer&text=Explore+My+Repositories&fontSize=30&fontColor=36BCF7&animation=twinkling" />
